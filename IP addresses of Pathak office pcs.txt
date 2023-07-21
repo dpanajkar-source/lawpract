@@ -1,0 +1,7 @@
+Server Pathak
+  IPv4 Address. . . . . . . . . . . : 192.168.0.221
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Office 2 Pc
+192.168.0.221  server.local
